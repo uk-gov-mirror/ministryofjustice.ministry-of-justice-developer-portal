@@ -81,8 +81,6 @@
   "overrides": {
     "preact": "10.29.4",
     "vite": "8.0.16",
-    "lru-cache": "11.5.1",
-    "tough-cookie": "6.0.0",
     "tldts": "7.4.5",
     "tldts-core": "7.4.5",
     "postcss": "^8.5.23",
