@@ -86,7 +86,8 @@
     "tldts": "7.4.5",
     "tldts-core": "7.4.5",
     "caniuse-lite": "1.0.30001800",
-    "playwright-core": "1.61.0"
+    "playwright-core": "1.61.0",
+    "postcss": "^8.5.23"
 
   },
   "allowScripts": {
