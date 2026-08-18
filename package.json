@@ -57,8 +57,8 @@
     "sass": "1.102.0"
   },
   "devDependencies": {
-    "@axe-core/playwright": "4.11.3",
-    "@playwright/test": "1.61.0",
+    "@axe-core/playwright": "4.13.0",
+    "@playwright/test": "1.62.1",
     "@testing-library/jest-dom": "6.8.0",
     "@testing-library/react": "16.3.0",
     "@testing-library/user-event": "14.6.1",
@@ -85,7 +85,6 @@
     "tough-cookie": "6.0.0",
     "tldts": "7.4.5",
     "tldts-core": "7.4.5",
-    "playwright-core": "1.61.0",
     "postcss": "^8.5.23"
 
   },
