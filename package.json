@@ -85,7 +85,8 @@
     "tough-cookie": "6.0.0",
     "tldts": "7.4.5",
     "tldts-core": "7.4.5",
-    "postcss": "^8.5.23"
+    "postcss": "^8.5.23",
+    "sharp": "^0.35.0"
 
   },
   "allowScripts": {
